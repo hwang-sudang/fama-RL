@@ -1,0 +1,24 @@
+{
+    "initial_portfolio": {
+        "Bank_account": 10000000,
+        "AAPL": 0,
+        "AMZN": 0,
+        "BKNG": 0,
+        "ISRG": 0,
+        "REGN": 0
+    },
+    "market_cap": {
+        "AAPL": "Big",
+        "AMZN": "Big",
+        "BKNG": "Mid",
+        "ISRG": "Mid",
+        "REGN": "Small"
+    },
+    "period": {
+        "start_date":"2002-10-18",
+        "train_end":"2018-12-08",
+        "val_end":"2020-12-19",
+        "test_end":"2018-12-09",
+        "end_date":"2022-12-31"
+    }
+}

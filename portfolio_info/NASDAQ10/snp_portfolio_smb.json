@@ -1,0 +1,33 @@
+{
+    "initial_portfolio": {
+        "Bank_account": 10000000,
+        "AAPL": 0,
+        "AMGN": 0,
+        "AMZN": 0,
+        "BKNG": 0,
+        "COST": 0,
+        "ISRG": 0,
+        "NFLX": 0,
+        "ORLY": 0,
+        "REGN": 0,
+        "VRTX": 0
+    },
+    "market_cap": {
+        "AAPL": "Big",
+        "AMGN": "Big",
+        "AMZN": "Big",
+        "BKNG": "Mid",
+        "COST": "Mid",
+        "ISRG": "Mid",
+        "NFLX": "Mid",
+        "ORLY": "Small",
+        "REGN": "Small",
+        "VRTX": "Small"
+    },
+    "period": {
+        "start_date":"2002-10-18",
+        "train_end":"2017-08-08", 
+        "test_end":"2017-08-09",
+        "end_date":"2022-12-31"
+    }
+}

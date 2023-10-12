@@ -1,0 +1,36 @@
+{
+    "initial_portfolio":{
+                        "Bank_account": 100000, "ALK": 0, "BAX": 0, "BFb": 0, "BK": 0, 
+                        "BRO": 0, "CMI": 0, "CMS": 0, "CVS": 0, "CVX": 0, 
+                        "DIS": 0, "EIX": 0, "FMC": 0, "IBM": 0, "JPM": 0, 
+                        "K": 0, "LUMN": 0, "MMM": 0, "MSI": 0, "NEE": 0, "NKE": 0, 
+                        "OMC": 0, "OXY": 0, "PHM": 0, "PPG": 0, "SHW": 0, "TYL": 0,
+                        "UHS" :0, "VFC" : 0, "VLO":0, "WMT":0 },
+    
+    "market_cap":{
+                "ALK": "Small", "BAX": "Mid", "BFb": "Mid", "BK": "Mid", 
+                "BRO": "Small", "CMI": "Mid", "CMS": "Small", "CVS": "Big", "CVX": "Big", 
+                "DIS": "Big", "EIX": "Mid", "FMC": "Small", "IBM": "Big", "JPM": "Big", 
+                "K": "Small", "LUMN": "Small", "MMM": "Big", "MSI": "Mid", "NEE": "Big", "NKE": "Big", 
+                "OMC":"Mid", "OXY": "Mid", "PHM": "Small", "PPG":"Mid", "SHW": "Big", "TYL": "Small",
+                "UHS" :"Small", "VFC" : "Mid", "VLO":"Small", "WMT":"Big"
+                },
+
+    "sector":{
+        "ALK": "Industrial", "BAX": "Healthcare", "BFb": "Consumer Defensive", "BK": "Financial", 
+        "BRO": "Financial", "CMI": "Industrial", "CMS":"Utilities", "CVS": "Healthcare", "CVX": "Energy", 
+        "DIS": "Cummunication Services", "EIX":"Utilities", "FMC": "Basic Material", "IBM": "Technology", "JPM": "Financial", 
+        "K": "Consumer Defensive", "LUMN": "Cummunication Services", "MMM": "Industrial", "MSI": "Technology", "NEE":"Utilities", "NKE": "Consumer Cyclical", 
+        "OMC": "Cummunication Services", "OXY": "Energy", "PHM": "Consumer Cyclical", "PPG": "Basic Material", "SHW":"Basic Material", "TYL":"Technology",
+        "UHS" :"Healthcare", "VFC" : "Consumer Cyclical", "VLO":"Energy", "WMT":"Consumer Defensive"
+        },
+
+    "color":{
+        "ALK": "lightblue", "BAX": "mediumturquoise", "BFb": "gold", "BK": "limegreen", 
+        "BRO": "lightgreen", "CMI": "cornflowerblue", "CMS": "pink", "CVS": "teal", "CVX": "olivedrab", 
+        "DIS": "indianred", "EIX": "palevioletred", "FMC": "gainsboro", "IBM": "rebeccapurple", "JPM": "darkgreen", 
+        "K": "cornsilk", "LUMN": "mistyrose", "MMM": "royalblue", "MSI": "mediumpurple", "NEE": "mediumvioletred", "NKE": "peru", 
+        "OMC": "lightcoral", "OXY": "yellowgreen", "PHM": "bisque", "PPG":"darkgrey", "SHW": "dimgrey", "TYL": "thistle",
+        "UHS" :"paleturquoise", "VFC" : "orange", "VLO":"greenyellow", "WMT":"goldenrod"
+    }
+}
